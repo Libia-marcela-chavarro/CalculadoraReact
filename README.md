@@ -22,3 +22,8 @@ git clone https://github.com/Libia-marcela-chavarro/CalculadoraReact.git
 👩‍💻 Autor
 Desarrollado por Libia Marcela Chavarro
 GitHub: @Libia-marcela-chavarro
+## 🖼 Vista previa
+
+<img src="public/captura.png" alt="Captura de la calculadora" width="300" />
+
+
